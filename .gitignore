@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.cr/personal/FavoritesList
+/worldcities.client/.vscode
+/worldcities.client/obj/Debug
+/WorldCities.Server/bin/Debug/net8.0
+/WorldCities.Server/obj
